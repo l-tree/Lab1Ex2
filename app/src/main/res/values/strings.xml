@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1Ex2</string>
+    <string name="full_name">Name: Vikki Leung 梁詠琪</string>
+    <string name="program_name">Program: Health Informatics</string>
+    <string name="semester">Semester: Unknown</string>
+    <string name="course_name">Course: Wireless Programming COMP304</string>
+    <string name="button_send">Send</string>
+
+    <string name="formatted_info">%1$s\n%2$s\n%3$s\n%4$s</string>
+    <!--<string name="formatted_info">%1$s %2$s %3$s %4$s</string>-->
+
+</resources>
